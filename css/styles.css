@@ -47,6 +47,8 @@ body{
     font-size: 24px;
 }
 
+.iconify { width: 24px; height: 24px; }
+
 .link{
     display: inline-block;
     color: inherit;
